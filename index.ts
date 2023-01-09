@@ -1,4 +1,4 @@
-import { Module, Program, Config } from "../api";
+import { Module, Program, Config } from "../../api";
 
 export default class Template extends Module {
 	constructor(program: Program, config: Config) {
